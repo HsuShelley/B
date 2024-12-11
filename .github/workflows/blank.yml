@@ -35,3 +35,4 @@ jobs:
           date -d "yesterday" '+%Y-%m-%dT%H:%M'
           pwd
           ls
+          sh python/expedera/serialize/test/test_serialize_all.sh
