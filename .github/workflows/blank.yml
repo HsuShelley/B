@@ -36,3 +36,4 @@ jobs:
           date -d "yesterday" '+%Y-%m-%dT%H:%M'
           pwd
           ls
+          bash test_fail_change.sh
